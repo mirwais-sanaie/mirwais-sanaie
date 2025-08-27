@@ -1,7 +1,13 @@
 <h1 align="center">hey there 👋</h1>
 
-# 💫 About Me:
-🔭 I’m currently working with my self<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React js<br>💬 Ask me about<br>⚡ Fun fact
+💫 About Me:
+🔭 I’m currently working with myself on web development projects 🚀 <br>
+👯 I’m looking to collaborate on React, Next.js projects <br>
+🤝 I’m looking for help with mastering backend development and full-stack practices <br>
+🌱 I’m currently learning Next.js, and I’ve already built some projects with it <br>
+💬 Ask me about React, Next.js, Tailwind CSS, Shadcn UI, and front-end best practices <br>
+⚡ Fun fact: I love turning ideas into interactive web apps and always strive to make them both functional and beautiful ✨
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mirwais.sanaye?mibextid=ZbWKwL) 
@@ -28,16 +34,12 @@
 ![Appwrite](https://img.shields.io/badge/appwrite-%23F24E1E.svg?style=for-the-badge&logo=appwrite&logoColor=white) 
 
 
-<h3 align="left">My Stats :</h3>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mirwais-sanaie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mirwais-sanaie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirwais-sanaie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mirwais-sanaie&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mirwais-sanaie&icon=0&color=0)](https://visitcount.itsvg.in)
