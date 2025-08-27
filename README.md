@@ -1,7 +1,6 @@
-<h1 align="center">hey there 👋</h1>
 
-💫 About Me:
-🔭 I’m currently working with myself on web development projects 🚀 <br>
+## 💫 About Me: <br>
+🚀 I’m currently working with myself on web development projects <br>
 👯 I’m looking to collaborate on React, Next.js projects <br>
 🤝 I’m looking for help with mastering backend development and full-stack practices <br>
 🌱 I’m currently learning Next.js, and I’ve already built some projects with it <br>
